@@ -1,0 +1,12 @@
+model={
+	lods={
+		{"TF-51D.edm",50.0};
+		{"TF-51D_lod1.edm",100.0};
+		{"TF-51D_lod2.edm",200.0};
+		{"P-51D-30-NA_LoD3.edm",300.0};
+		{"P-51D_lod4.edm",500.0};
+		{"P-51D_lod5.edm",6000.0};
+        {"P-51D_lod6.edm",50000.0};
+	};
+	collision_shell="P-51D-COLLISION.edm";
+}
